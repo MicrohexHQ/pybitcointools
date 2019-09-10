@@ -1,4 +1,6 @@
-# Pybitcointools, Python library for Bitcoin signatures and transactions
+# Pybitcointools
+
+Python library for Bitcoin signatures and transactions
 
 ### Advantages:
 
